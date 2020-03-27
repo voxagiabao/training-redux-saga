@@ -36,6 +36,9 @@ module.exports = {
     "import/prefer-default-export": 0,
     "react/no-array-index-key": 1,
     "react/jsx-curly-brace-presence": 1,
+    "react/jsx-closing-bracket-location": 1,
+    "react/jsx-first-prop-new-line": 1,
+    "react/jsx-users-vars": 0,
   },
   plugins: ["prettier"],
   env: {
